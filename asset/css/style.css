@@ -1,0 +1,62 @@
+.gaana-search {
+    margin-right: 20px;
+}
+
+.gaana-search .fas {
+    margin-right: 1px;
+}
+
+.music_head {
+    margin-top: 100px;
+}
+
+.music_detail {
+    margin: 20px 10px;
+}
+
+.music_detail h3 {
+    font-weight: lighter;
+    letter-spacing: 1px;
+    top: 20px;
+    left: 26px;
+
+
+}
+
+.music_detail h2 {
+    /* font-weight: lighter; */
+    letter-spacing: 1px;
+    top: 20px;
+    left: 26px;
+    margin: 20px;
+
+}
+
+.music_detail button {
+
+    border-radius: 15px;
+    font-size: x-small;
+    margin: 2px;
+    padding: 5px;
+    margin-top: 10px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.music_controls i {
+    font-size: medium !important;
+    margin: 5px;
+    cursor: pointer;
+}
+
+
+.music_detail i {
+    font-size: xx-small;
+    margin: 2px;
+    padding: 5px;
+    margin-top: 10px;
+}
+
+.music_cards {
+    margin-top: 20px;
+}
